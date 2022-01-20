@@ -1,7 +1,7 @@
 
 # Linux - Commandes de base 
 
-- Première étape
+## Première étape
 
 **git clone** git clone (lien https..) 
 permet de cloner le repository distant sur le répertoire local courant (pour pouvoir ensuite modifier les fichiers, à updater ensuite)
@@ -25,7 +25,7 @@ Lister les éléments dans un dossier
 **ls -alrt** liste longue des répertoires et fichiers avec détails y compris les cachés, les plus récents en bas de liste
 
 **git init**
-Activez Git pour initialiser le répertoire courant et qu'il trace les différentes versions (repository)
+Activez Git pour initialiser le répertoire courant et que celui-ci trace les différentes versions (repository)
 
 **git status**
 Vérifiez l'état des modifications dans un dépôt. Git signale si un fichier a été ajouté.
@@ -85,3 +85,34 @@ pour sortir quand on est bloqué.
 
 + user ... 
 https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base
+
+## BONNE PRATIQUE
+
+- git init
+- git remote
+- git status
+- git pull
+
+git add
+git commit
+git push
+
+si conflit MERGE :
+Se parler entre collaborateurs
+Un des collaborateurs modifie le fichier ou rep posant pb
+puis refait la boucle. Jussqu'à ce que le conflit ait disparu.
+
+## COLLABORATIONS ( Pull Request)
+
+1. Lister les issues
+2. Détailler les issues
+3. Assigner les Issues
+4. chacun fait son job
+    5. Chacun renseigne l'issue avec un commentaire et la ferme
+    6. Le dernier collaborateur du groupe ferme la liste d'issues
+    7. Chacun renseigne aussi l'issue du projet global
+8. L'administrateur ferme le groupe d'issues (et peut procéder au push en production).
+
+## BRANCHES
+
+A compléter
