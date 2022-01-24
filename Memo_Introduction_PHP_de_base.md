@@ -4,17 +4,16 @@ FORMATEUR : J.
 CR : M. MASSON
 20.01.2020
 
-#I. Présentation du formateur#
+I. Présentation du formateur#
 
 Jérôme XX présent dès la première formation "WebDev". Intervient en PHP & en Javascript et sur le suivi des apprenants.
 A commencé à l"âge de 10 ans à s'intéresser à l'informatique, il y a donc 40 ans.
 Travaille pour deux structures (PHP & JS)
 
-##I. CONSEILS##
+II. CONSEILS
 
 Question : Quel est le meilleur ami du développeur ?
-Réponse :
-son cerveau
+Réponse : son cerveau
 + Git
 + le bon IDE
 
@@ -76,6 +75,7 @@ Le PHP a permis d'articuler les choses.
 Le nom donné au PHP et une feinte de développeur en référence au langage récursif.
 
 Architecture client-serveur
+
 Serveur ou ferme de serveur (hardware - machine physique).
 La machine physique fait tourner plusieurs soft le serveur va  travailler pour un utilisateur comme pour un million d'utilisateurs.
 
